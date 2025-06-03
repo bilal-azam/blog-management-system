@@ -2,8 +2,6 @@
 
 A full-stack blog management system built with **React, Node.js, Express, MongoDB, and Tailwind CSS**. Supports user authentication and CRUD operations for blog posts.
 
-![Demo Screenshot](/client/public/demo-screenshot.png)  
-*(Replace with an actual screenshot path)*
 
 ---
 
