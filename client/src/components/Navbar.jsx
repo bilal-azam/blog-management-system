@@ -27,6 +27,12 @@ export default function Navbar() {
               >
                 Dashboard
               </Link>
+              <Link 
+                to="/blogs" 
+                className="px-3 py-2 text-gray-700 hover:text-indigo-600 transition-colors font-medium"
+              >
+                Blogs
+              </Link>
               <button
                 onClick={handleLogout}
                 className="px-4 py-2 bg-indigo-600 text-white rounded-md hover:bg-indigo-700 transition-colors"
